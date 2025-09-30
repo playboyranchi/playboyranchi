@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://playboyranchi.github.io/playboyranchi/sitemap.xml
